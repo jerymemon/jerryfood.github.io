@@ -1,0 +1,937 @@
+nav{
+    background-color: #d70f64;
+    /* width: 100%; */
+}
+.dropdown-menu{
+    background-color: #d70f64;
+}
+.dropdown-item{
+    font-size: 17px;
+    font-family: 'Domine', serif;
+    background-color: #d70f64;
+}
+.dropdown-item:hover{
+    background-color: black;   
+}
+
+.nav-link{
+    font-size: 20px;
+    font-family: 'Domine', serif;
+}
+.nav-link i{
+    padding: 5px;
+    
+}
+.navbar-brand{
+    font-size: 30px;
+    font-family: 'Domine', serif;
+}
+/* <!-- home1 start --> */
+.fat h1{
+    font-size: 40px;
+    font-family: 'Domine', serif;
+    font-weight: bold;
+    margin-left: 20%;
+    margin-top: 3%;
+    color: #d70f64;
+}
+.fat p{
+    font-size: 30px;
+    font-family: 'Domine', serif;
+    font-weight: bold;
+    margin-left: 20%
+    
+}
+.fat button{
+    margin-left: 20%;
+    font-size: 20px;
+    background-color: #d70f64;
+    color: white;
+    font-family: 'Domine', serif;
+    font-weight: bold;
+}
+/* <!-- home END--> */
+/* <!-- home1 start --> */
+.cen p{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Domine', serif;
+}
+.cen i{
+    margin-top: 50px;
+    margin-left: 30px;
+    color: #d70f64;
+    font-size: 100px;
+ }
+ /* <!-- home1 end --> */
+ 
+ /* <!-- carousall start --> */
+ .pz{
+     background-size: 100% 100%;
+ }
+ .pz7{
+    background-size: 100% 100%;
+}
+.pz8{
+    background-size: 100% 100%;
+}
+
+ .pz1{
+     margin-left: 40px;
+     font-size: 20px;
+     font-weight: bold;
+     font-family: 'Domine', serif;
+ }
+ .f2{
+     margin-left: 40px;
+     font-weight: bold;
+     font-family: 'Domine', serif;
+ }
+ .piz button{
+    font-size: 20px;
+    background-color: #d70f64;
+    color: white;
+    font-family: 'Domine', serif;
+    font-weight: bold;
+    margin-left: 40px;
+ }
+ .pz1 span{
+     color: #d70f64;
+
+ }
+ .has{
+     font-size: 30px;
+     text-align: center;
+     align-items: center;
+     color: #d70f64;
+     font-family: 'Domine', serif;
+     font-weight: bold;
+     padding: 20px;
+     border-bottom: 5px solid black;
+ }
+ .piz{
+     width: 300px;  
+     margin-left: 50px;
+ }
+ #mn{
+     width: 150px;
+     height: 30px;
+     color: white;
+     background-color: #d70f64;
+     font-size: 15px;
+     font-family: 'Domine', serif;
+     font-weight: bold;
+     margin-left: 40px;
+     padding: 5px;
+ }
+ .fiz{
+     width: 300px;
+     margin-left: 50px;
+ }
+ .fiz h2{
+    margin-left: 40px;
+    font-weight: bold;
+    font-family: 'Domine', serif;
+ }
+ .fiz h5{
+    width: 150px;
+    height: 25px;
+    color: white;
+    background-color: #d70f64;
+    font-size: 15px;
+    font-family: 'Domine', serif;
+    font-weight: bold;
+    margin-left: 40px;
+    padding: 5px;
+ }
+ .fiz p{
+    margin-left: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Domine', serif;
+ }
+ .fiz span{
+     color: #d70f64;
+ }
+ .fiz button{
+    font-size: 20px;
+    background-color: #d70f64;
+    color: white;
+    font-family: 'Domine', serif;
+    font-weight: bold;
+    margin-left: 40px;
+ }
+ .fiz img{
+     background-size: 100% 100%;
+ }
+ .fiz i{
+     color: #d70f64;
+     font-size: 15px;
+ }
+ .piz i{
+    color: #d70f64;
+    font-size: 15px;
+}
+/* .fiz img:hover{
+    transform: scale(1.1);
+} */
+/* carousal and */
+/* deal :start */
+.deal div{
+    width: 90px;
+    color: white;
+    background-color: #d70f64;
+}
+
+.deal h1{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Domine', serif;
+}
+.deal span{
+    color: #d70f64;
+}
+.deal button{
+   font-size: 20px;
+   background-color: #d70f64;
+   color: white;
+   font-family: 'Domine', serif;
+   font-weight: bold;
+   margin-left: 40px;
+}
+.deal p{
+    /* margin-left: 40px; */
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Domine', serif;
+ }
+ .has1{
+    font-size: 30px;
+    text-align: center;
+    align-items: center;
+    color: #d70f64;
+    font-family: 'Domine', serif;
+    font-weight: bold;
+    /* border-bottom: 5px solid black; */
+}
+.ofer{
+    font-size: 40px;
+    text-align: center;
+    align-items: center;
+    color: #d70f64;
+    font-family: 'Domine', serif;
+    font-weight: bold;
+}
+
+.man1 h1{
+    font-size: 30px;
+    color: white;
+    font-family: 'Domine', serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+}
+.man1 P{
+    font-size: 15px;
+    color: white;
+    font-family: 'Domine', serif;
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+}
+.man1 img{
+    margin-left: 0px;
+    padding: 20px;
+    margin-top: 40px;
+
+}
+.man1 input{
+    border: none;
+    outline: none;
+    /* border-top: none;
+    border-left: none;
+    border-right: none; */
+    background: none;
+   color: black;
+   width: 300px;
+   border-bottom: 2px solid white;
+   background-color: white;
+   margin-left: 20px;
+   margin-top: 40px;
+}
+/* span.prev-icon{
+    transition: 1.2s ease-in-out;
+}
+
+span.prev-icon:hover{
+    transform: rotate(-360deg);
+    background-color: black;
+    font-size: 70px;
+} */
+ /* /footer start/  */
+footer{
+    background-color: #d70f64;
+    height: auto;
+    margin-top: 20px;
+}
+.foter p{
+    font-size: 15px;
+    color: white;
+    /* text-align: center; */
+    font-weight: bold;
+    font-family: 'Domine', serif;
+    align-items: center;
+    margin: 20px 0px 16px;  
+}
+footer label{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Domine', serif;
+    color: black;
+    margin-top: 20px;
+}
+.foter1 h1{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Domine', serif;
+    color: black;
+    margin-top: 40px;
+}
+.foter1 p{
+    font-size: 16px;
+    color: white;
+    /* text-align: center; */
+    font-weight: bold;
+    font-family: 'Domine', serif;
+    /* margin: 20px 0px 16px; */
+}
+.foter i{
+    font-size: 20px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 50%;
+    transition: 0.99s;
+}
+.foter i:hover{
+   background-color: #0d6ffd;
+   transform: rotate(-360deg);
+}
+.foter2 p{
+    font-size: 16px;
+    color: white;
+    /* text-align: center; */
+    font-weight: bold;
+    font-family: 'Domine', serif;
+}
+.foter3 p{
+    font-size: 16px;
+    color: white;
+    /* text-align: center; */
+    font-weight: bold;
+    font-family: 'Domine', serif;
+}
+.foter3 h1{
+    font-size: 30px;
+    color: black;
+    /* text-align: center; */
+    font-weight: bold;
+    font-family: 'Domine', serif;
+    margin-top: 30px;
+}
+/* pizza page start  */
+.piza{
+    width: 350px;
+    /* height: 300px; */
+}
+.piza img{
+    height: 300px;
+    width: 250px;
+}
+.piza h1{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Domine', serif;
+}
+.piza div{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Domine', serif;
+    background-color: #d70f64;
+    width: 100px;
+    color: white;
+}
+.piza p{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Domine', serif;
+
+    margin-left: 20px;
+}
+.piza h5{
+    font-family: 'Domine', serif;
+    color: #d70f64;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.piza button{
+    background-color: #d70f64;
+    color: white;
+    font-weight: bold;
+    font-family: 'Domine', serif;
+    margin-left: 20px;
+}
+.mex{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Domine', serif;
+    text-align: center;
+    padding: 20px;
+    color: #d70f64;
+}
+/* order html start  */
+.zia img{
+    width: 300px;
+    height: 400px;
+}
+.zia1 option{
+    background-color: #d70f64;
+    color: white;
+}
+.zia1 select{
+    background-color: #d70f64;
+    color: white;
+    font-weight: bold;
+    font-family: 'Domine', serif;
+}
+
+.zia1 button{
+    background-color: #d70f64;
+    color: white;
+    font-weight: bold;
+    font-family: 'Domine', serif;
+}
+.zia1 h1{
+    color: #d70f64;
+    font-weight: bold;
+    font-family: 'Domine', serif;
+    font-size: 40px;
+}
+.piza select{
+    color: white;
+    background-color: #d70f64;
+}
+/* complet  start */
+.order1 h1{
+    font-size: 60px;
+    text-align: center;
+    align-items: center;
+    color: #d70f64;
+    font-weight: bold;
+    font-family: 'Domine', serif;
+    margin-top: 30px;
+}
+.order p{
+    font-size: 30px;
+    text-align: center;
+    align-items: center;
+    color: #d70f64;
+    font-weight: bold;
+    font-family: 'Domine', serif;
+    margin-top: 30px;
+}
+.order h2{
+    font-size: 30px;
+    text-align: center;
+    align-items: center;
+    color: #d70f64;
+    font-weight: bold;
+    font-family: 'Domine', serif;
+}
+.order img{
+    width: 100%;
+    height: 400px;
+}
+/* login */
+.logiin{
+    width: 350px;
+    height: 400px;
+    background-color: white;
+    margin-top: 70px;
+    margin-left: 30%;
+}
+.logiin h1{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Domine', serif;
+    text-align: center;
+}
+.logiin .b{
+    padding: 5px;
+    margin-left: 30px;
+    width: 125px;
+    background: linear-gradient(to top right, #d70f64 0%, #ffffff 100%);
+}
+.logiin input{
+    width: 280px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 20px;
+    border: 2px solid;
+}
+.logiin p{
+    font-size: 15px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.logiin button{
+    width: 280px;
+    margin-left: 30px;
+    height: 40px;
+    background: linear-gradient(to top right, #d70f64 0%, #ffffff 100%);
+}
+.logiin h6{
+    font-size: 15px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:414px)
+{
+    div .fat1 img{
+        width: 300px;
+        height: 300px;
+       margin-left: 10%;
+       margin-top: 5%;
+    }
+    div .fat p{
+        text-align: center;
+        font-size: 15px;
+        /* align-items: center; */
+        margin-right: 10%;
+    }
+    div .fat .bt{
+          margin-left: 25%;
+    }
+    div .fat h1{
+        text-align: center;
+        font-size: 30px;
+        margin-right: 40%;
+    }
+    div .cen img{
+        margin-left: 70px;
+    }
+    div .cen p{
+        font-size: 15px;
+        text-align: center;
+    }
+    div .cen i{
+        margin-left: 150px;
+        font-size: 60px;
+        text-align: center;
+        
+    }
+    div .pz7{
+        height: 180px;
+    }
+    div .pz8{
+        height: 150px;
+    }
+    #fo{
+        height: 235px;
+    }
+    #fo1{
+        height: 260px;
+    }
+    #fo5{
+        height: 220px;
+    }
+    .pz{
+        margin-right: 10%;
+    }
+    
+    .deal p{
+        font-size: 15px;
+        margin-right: 30px;
+        align-items: center;
+    }
+    .deal{
+        width: 200px;
+        margin-left: 70px;
+    }
+    .has1{
+        font-size: 20px;
+    }
+    .deal h1{
+        font-size: 20px;
+        margin-top: 7%;
+    }
+    .deal img{
+        height: 200px;
+        width: 200px;
+    }
+    .deal button{
+        font-size: 15px;
+    }
+    .fal{
+        width: 80%;
+        height: 300px;
+    }
+    .piz{
+        width: 300px;
+    }
+    .man1 p{
+        font-size: 13px;
+    }
+    .man1 h1{
+        font-size: 20px;
+    }
+    div .man1 img{
+        width: 150px;
+        padding: 0%;
+        margin-left: 10px;
+    }
+    .piza{
+        margin-left: 20px;
+        padding: 10px;
+    }
+    .mex{
+        font-size: 30px;
+    }
+    .fol{
+        margin-left: 20px;
+    }
+    .zia1 h1{
+        font-size: 30px;
+        margin-left: 20px;
+    }
+    .logiin{
+         margin-left: 20px;
+    }
+}
+@media(max-width:370px)
+{
+  .piza{
+      margin-left: 10px;
+  }
+  
+}
+@media(max-width:900px)
+{
+    div .fat1 img{
+        height: 300px;
+        width: 300px;
+    }
+     div .man1 img{
+         width: 150px;
+         padding: 10px;
+     }
+     .man1 p{
+        font-size: 10px;
+     }
+     
+     .man1 h1{
+        
+        font-size: 30px;
+    }
+    #sum{
+        height: 250px;
+        width: 230px;
+    }
+     /* .piza{
+         margin-left: 30px;
+     } */
+}
